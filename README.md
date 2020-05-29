@@ -1,0 +1,2 @@
+# MonoGameShaderIssue
+Breaking MonoGame somehow.
